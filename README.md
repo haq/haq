@@ -9,7 +9,11 @@
 
 <br>
 
-#### Languages and Tools:  
+### Current Projects
+##### Envy Client - [envyclient.com](https://envyclient.com)
+##### Pixels - [haq/pixels](https://github.com/haq/pixels)
+
+### Languages and Tools:  
 
 <code><img alt="laravel" width="32px" src="assets/laravel.svg"></code>
 <code><img alt="vue.js" width="32px" src="assets/vue.svg"></code>
