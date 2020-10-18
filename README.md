@@ -10,27 +10,28 @@
 <br>
 
 ### Current Projects
+
 #### Envy Client - [envyclient.com](https://envyclient.com)
 #### Pixels - [haq/pixels](https://github.com/haq/pixels)
 
-### Languages and Tools:  
+### Languages and Tools
 
-<code><img alt="laravel" width="28px" src="assets/laravel.svg"></code>
-<code><img alt="vue.js" width="28px" src="assets/vue.svg"></code>
-<code><img alt="docker" width="28px" src="assets/docker.svg"></code>
+<code><img alt="laravel" width="26px" src="assets/laravel.svg"></code>
+<code><img alt="vue.js" width="26px" src="assets/vue.svg"></code>
+<code><img alt="docker" width="26px" src="assets/docker.svg"></code>
 <br>
 <br>
-<code><img alt="windows" width="28px" src="assets/windows.svg"></code>
-<code><img alt="fedora" width="28px" src="assets/fedora.svg"></code>
+<code><img alt="windows" width="26px" src="assets/windows.svg"></code>
+<code><img alt="fedora" width="26px" src="assets/fedora.svg"></code>
 <br>
 <br>
-<code><img alt="mysql" width="28px" src="assets/mysql.svg"></code>
-<code><img alt="microsoft sql server" width="28px" src="assets/microsoft-sql-server.svg"></code>
+<code><img alt="mysql" width="26px" src="assets/mysql.svg"></code>
+<code><img alt="microsoft sql server" width="26px" src="assets/microsoft-sql-server.svg"></code>
 <br>
 <br>
-<code><img alt="teamcity" width="28px" src="assets/teamcity.svg"></code>
-<code><img alt="intellij idea" width="28px" src="assets/intellij-idea.svg"></code>
-<code><img alt="phpstorm" width="28px" src="assets/phpstorm.svg"></code>
+<code><img alt="teamcity" width="26px" src="assets/teamcity.svg"></code>
+<code><img alt="intellij idea" width="26px" src="assets/intellij-idea.svg"></code>
+<code><img alt="phpstorm" width="26px" src="assets/phpstorm.svg"></code>
 
 <br>
 
