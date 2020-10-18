@@ -9,11 +9,10 @@
 
 <br>
 
-## Languages and Tools:  
+#### Languages and Tools:  
 
 <code><img alt="laravel" width="32px" src="assets/laravel.svg"></code>
 <code><img alt="vue.js" width="32px" src="assets/vue.svg"></code>
-<code><img alt="teamcity" width="32px" src="assets/teamcity.svg"></code>
 <code><img alt="docker" width="32px" src="assets/docker.svg"></code>
 <br>
 <br>
@@ -21,8 +20,13 @@
 <code><img alt="fedora" width="32px" src="assets/fedora.svg"></code>
 <br>
 <br>
-<code><img alt="windows" width="32px" src="assets/mysql.svg"></code>
-<code><img alt="fedora" width="32px" src="assets/microsoft-sql-server.svg"></code>
+<code><img alt="mysql" width="32px" src="assets/mysql.svg"></code>
+<code><img alt="microsoft sql server" width="32px" src="assets/microsoft-sql-server.svg"></code>
+<br>
+<br>
+<code><img alt="teamcity" width="32px" src="assets/teamcity.svg"></code>
+<code><img alt="intellij idea" width="32px" src="assets/intellij-idea.svg"></code>
+<code><img alt="phpstorm" width="32px" src="assets/phpstorm.svg"></code>
 
 <br>
 
