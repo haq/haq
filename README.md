@@ -21,8 +21,8 @@
 <code><img alt="docker" width="26px" src="assets/docker.svg"></code>
 <code><img alt="fedora" width="26px" src="assets/fedora.svg"></code>
 <code><img alt="teamcity" width="26px" src="assets/teamcity.svg"></code>
+<code><img alt="mysql" width="26px" src="assets/redis.svg"></code>
 <code><img alt="mysql" width="26px" src="assets/mysql.svg"></code>
-<code><img alt="microsoft sql server" width="26px" src="assets/microsoft-sql-server.svg"></code>
 
 <br>
 
