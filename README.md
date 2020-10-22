@@ -27,7 +27,7 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haq&show_icons=true&include_all_commits=true" alt="Affans's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haq&count_private=true&show_icons=true&include_all_commits=true" alt="Affans's github stats" />
 </a>
 
 <!--
