@@ -9,7 +9,7 @@
 
 ##### Envy Client - [envyclient.com](https://envyclient.com)
 ##### Pixels - [haq/pixels](https://github.com/haq/pixels)
-##### Web Shop - [haq/web-shop](https://github.com/haq/web-shop)
+##### Marketplace - [haq/marketplace](https://github.com/haq/marketplace)
 
 ### Languages and Tools
 
