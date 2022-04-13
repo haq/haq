@@ -8,17 +8,22 @@
 ### Current Projects
 
 ##### Envy Client - [envyclient.com](https://envyclient.com)
+##### Mapcha - [haq/mapcha](https://github.com/haq/mapcha)
+##### Rclone Database Backup - [haq/rclone-database-backup](https://github.com/haq/rclone-database-backup)
 ##### Pixels - [haq/pixels](https://github.com/haq/pixels)
 
-### Languages and Tools
+### Technologies
 
 [<img align="left" alt="laravel" width="26px" src="assets/laravel.svg">](http://laravel.com/)
-[<img align="left" alt="vue.js" width="26px" src="assets/vue.svg">](https://vuejs.org/)
-[<img align="left" alt="docker" width="26px" src="assets/docker.svg">](https://docker.com/)
-[<img align="left" alt="fedora" width="26px" src="assets/fedora.svg">](https://getfedora.org/en/server/)
-[<img align="left" alt="teamcity" width="26px" src="assets/teamcity.svg">](https://www.jetbrains.com/teamcity/)
-[<img align="left" alt="mysql" width="26px" src="assets/mysql.svg">](https://mariadb.org/)
-[<img align="left" alt="redis" width="26px" src="assets/redis.svg">](https://redis.io/)
+[<img align="left" alt="vue.js" width="26px" src="assets/vuejs.png">](https://vuejs.org/)
+[<img align="left" alt="proxmox" width="26px" src="assets/proxmox.png">](https://proxmox.com/)
+[<img align="left" alt="docker" width="26px" src="assets/docker.png">](https://docker.com/)
+[<img align="left" alt="ansible" width="26px" src="assets/ansible.png">](https://ansible.com/)
+[<img align="left" alt="fedora" width="26px" src="assets/fedora.png">](https://getfedora.org/en/server/)
+[<img align="left" alt="teamcity" width="26px" src="assets/teamcity.svg">](https://jetbrains.com/teamcity/)
+[<img align="left" alt="mariadb" width="26px" src="assets/mariadb.png">](https://mariadb.org/)
+[<img align="left" alt="mongodb" width="26px" src="assets/mongodb.png">](https://mongodb.com/)
+[<img align="left" alt="redis" width="26px" src="assets/redis.png">](https://redis.io/)
 
 <br>
 <br>
