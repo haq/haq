@@ -1,7 +1,7 @@
 ### Hi there, I'm [Affan!](https://naffa.me/) 👋
 
-[<img align="left" alt="linkedin" width="22px" src="assets/linkedin.png">](https://www.linkedin.com/in/affan-haq/)
-[<img align="left" alt="twitter" width="20px" src="assets/twitter.svg">](https://twitter.com/haaaqs/)
+[<img align="left" alt="linkedin" width="26px" src="assets/linkedin.png">](https://linkedin.com/in/affan-haq/)
+[<img align="left" alt="twitter" width="26px" src="assets/twitter.png">](https://twitter.com/haaaqs/)
 
 <br>
 
