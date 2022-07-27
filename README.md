@@ -1,13 +1,12 @@
 ### Hi there, I'm [Affan!](https://naffa.me/) 👋
 
 [<img align="left" alt="linkedin" width="26px" src="assets/linkedin.png">](https://linkedin.com/in/affan-haq/)
-[<img align="left" alt="twitter" width="26px" src="assets/twitter.png">](https://twitter.com/haaaqs/)
 
 <br>
 
 ### Current Projects
 
-##### Envy Client - [envyclient.com](https://envyclient.com)
+##### Envy Client - [github.com/envyclient](https://github.com/envyclient)
 ##### Mapcha - [haq/mapcha](https://github.com/haq/mapcha)
 ##### Rclone Database Backup - [haq/rclone-database-backup](https://github.com/haq/rclone-database-backup)
 ##### Pixels - [haq/pixels](https://github.com/haq/pixels)
