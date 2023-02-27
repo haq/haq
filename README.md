@@ -1,6 +1,9 @@
 # Hi there, I'm [Affan!](https://affan.dev/) 👋
 
 <p>
+  <a href="mailto:hey@affan.dev">
+    <img src="https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://twitter.com/haaaqs">
     <img src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -52,6 +55,7 @@
 ![](https://img.shields.io/badge/ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![](https://img.shields.io/badge/octopus%20deploy-2f93e0?style=for-the-badge&logo=octopus-deploy&logoColor=white)
 ![](https://img.shields.io/badge/teamcity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
+![](https://img.shields.io/badge/github%20actions-2088ff?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![](https://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 ![](https://img.shields.io/badge/azure-0078d4?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
 
