@@ -1,4 +1,4 @@
-# Hi there, I'm [Affan!](https://affan.dev/) 👋
+# Hi there, I'm Affan! 👋
 
 <p>
   <a href="mailto:hey@affan.dev">
