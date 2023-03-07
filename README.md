@@ -50,6 +50,7 @@
 ![](https://img.shields.io/badge/vs%20code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/redis-dc382d?style=for-the-badge&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/microsoft%20sql%20server-cc2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=white)
