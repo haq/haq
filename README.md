@@ -24,7 +24,6 @@
 ![](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/bash-4eaa25?style=for-the-badge&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/c-a8b9cc?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/c%20sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)
@@ -37,9 +36,10 @@
 ![](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/tailwind%20css-06b6d4?style=for-the-badge&logo=tailwind%20css&logoColor=white)
 ![](https://img.shields.io/badge/vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![](https://img.shields.io/badge/svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=white)
+![](https://img.shields.io/badge/alpine.js-8bc0d0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
 ![](https://img.shields.io/badge/laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
-![](https://img.shields.io/badge/alpine.js-8bc0d0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
 ![](https://img.shields.io/badge/.net-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Tools
