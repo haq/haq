@@ -4,9 +4,6 @@
   <a href="mailto:hey@affan.dev">
     <img src="https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/haaaqs">
-    <img src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/affan-haq">
     <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
