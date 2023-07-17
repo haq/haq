@@ -11,8 +11,15 @@
 
 ## Current Projects
 
-#### mapcha - [haq/mapcha](https://github.com/haq/mapcha)
-#### rclone database backup - [haq/rclone-database-backup](https://github.com/haq/rclone-database-backup)
+#### [haq/microsoft-rewards-bot](https://github.com/haq/microsoft-rewards-bot) - Docker image for Microsoft-Rewards-bot by farshadz1997.
+#### [haq/rclone-database-backup](https://github.com/haq/rclone-database-backup) - Use Rclone to back up your MySQL, PostgreSQL or SQLite database.
+#### [haq/caddy-cf](https://github.com/haq/caddy-cf) - A caddy docker image containing the [cloudflare](https://github.com/caddy-dns/cloudflare) & [dynamicdns](https://github.com/mholt/caddy-dynamicdns) modules.
+#### [haq/mapcha](https://github.com/haq/mapcha) - Map based captcha plugin for your Minecraft server.
+#### [haq/keeper](https://github.com/haq/keeper) - Config manager for your Spigot/Bungee plugins.
+
+## Previous Projects
+
+#### envyclient - [envyclient](https://github.com/envyclient)
 #### pixels - [haq/pixels](https://github.com/haq/pixels)
 
 ## Languages
