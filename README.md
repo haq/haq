@@ -17,10 +17,13 @@
 #### [haq/mapcha](https://github.com/haq/mapcha) - Map based captcha plugin for your Minecraft server.
 #### [haq/keeper](https://github.com/haq/keeper) - Config manager for your Spigot/Bungee plugins.
 
-## Previous Projects
-
-#### envyclient - [envyclient](https://github.com/envyclient)
-#### pixels - [haq/pixels](https://github.com/haq/pixels)
+<details><summary>Previous Projects</summary>
+<p>
+  <a href="https://github.com/envyclient">envyclient</a>
+  <br>
+  <a href="https://github.com/haq/pixels">haq/pixels</a>
+</p>
+</details>
 
 ## Languages
 
@@ -32,7 +35,7 @@
 ![](https://img.shields.io/badge/c%20sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/java?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Libraries
@@ -67,6 +70,7 @@
 ## Virtualization
 
 ![](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/linux%20containers-333333?style=for-the-badge&logo=linux%20containers&logoColor=white)
 ![](https://img.shields.io/badge/proxmox-e57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![](https://img.shields.io/badge/debian-a81d33?style=for-the-badge&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/fedora-51a2da?style=for-the-badge&logo=fedora&logoColor=white)
