@@ -1,13 +1,8 @@
 # Hi there, I'm Affan! 👋
 
-<p>
-  <a href="mailto:hey@affan.dev">
-    <img src="https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/affan-haq">
-    <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![](https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@affan.dev)
+[![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-haq)
+[![](https://img.shields.io/badge/twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/haaaqs)
 
 ## Current Projects
 
@@ -37,6 +32,9 @@
 ![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white)
+
+#1D9BF0
 
 ## Libraries
 
@@ -80,4 +78,4 @@
 
 ## Stats
 
-<img align="center" alt="affans's github stats" src="https://github-readme-stats.vercel.app/api?username=haq&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+![](https://github-readme-stats.vercel.app/api?username=haq&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
