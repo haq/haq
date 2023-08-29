@@ -12,14 +12,6 @@
 #### [haq/mapcha](https://github.com/haq/mapcha) - Map based captcha plugin for your Minecraft server.
 #### [haq/keeper](https://github.com/haq/keeper) - Config manager for your Spigot/Bungee plugins.
 
-<details><summary>Previous Projects</summary>
-<p>
-  <a href="https://github.com/envyclient">envyclient</a>
-  <br>
-  <a href="https://github.com/haq/pixels">haq/pixels</a>
-</p>
-</details>
-
 ## Languages
 
 ![](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
