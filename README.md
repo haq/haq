@@ -23,7 +23,6 @@
 ![](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white)
 
 ## Libraries
@@ -53,13 +52,13 @@
 ![](https://img.shields.io/badge/teamcity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
 ![](https://img.shields.io/badge/github%20actions-2088ff?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![](https://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazon%20aws&logoColor=white)
-![](https://img.shields.io/badge/azure-0078d4?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
 
 ## Virtualization
 
 ![](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/linux%20containers-333333?style=for-the-badge&logo=linux%20containers&logoColor=white)
 ![](https://img.shields.io/badge/proxmox-e57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![](https://img.shields.io/badge/cockpit-0066cc?style=for-the-badge&logo=cockpit&logoColor=white)
 ![](https://img.shields.io/badge/debian-a81d33?style=for-the-badge&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/fedora-51a2da?style=for-the-badge&logo=fedora&logoColor=white)
 ![](https://img.shields.io/badge/arch%20linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
