@@ -2,7 +2,6 @@
 
 [![](https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@affan.dev)
 [![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-haq)
-[![](https://img.shields.io/badge/twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/haaaqs)
 
 ## Current Projects
 
